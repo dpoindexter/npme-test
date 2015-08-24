@@ -1,0 +1,19 @@
+{
+  "name": "npme-test",
+  "version": "1.0.0",
+  "description": "Test NPME",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpoindexter/npme-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpoindexter/npme-test/issues"
+  },
+  "homepage": "https://github.com/dpoindexter/npme-test#readme"
+}
