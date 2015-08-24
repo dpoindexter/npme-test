@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dpoindexter/npme-test#readme",
   "devDependencies": {
-    "del": "^1.2.1"
+    "del": "^1.2.1",
+    "gulp": "^3.9.0"
   }
 }
