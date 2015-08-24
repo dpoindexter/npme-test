@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dpoindexter/npme-test/issues"
   },
-  "homepage": "https://github.com/dpoindexter/npme-test#readme"
+  "homepage": "https://github.com/dpoindexter/npme-test#readme",
+  "devDependencies": {
+    "del": "^1.2.1"
+  }
 }
